@@ -151,4 +151,4 @@ Please follow code style and include tests when possible.
 
 ## License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Daniel Pérez
